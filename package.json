@@ -1,6 +1,9 @@
 {
   "name": "webrtc-streaming",
   "version": "1.0.0",
+  "engines": {
+    "node": "14.x"
+  },
   "description": "Video P2P Streaming with WebRTC",
   "main": "server.js",
   "scripts": {
