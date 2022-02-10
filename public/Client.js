@@ -8,7 +8,7 @@ const MESSAGE_ENUM = Object.freeze({
 //const localVideo = document.getElementById('localVideo');
 const localVideo = document.querySelector('#localVideo');
 const remoteVideo = document.querySelector('#remoteVideo');
-const lanOnly = true;
+const lanOnly = false;
 let localStream;
 let remoteStream;
 var alreadySendOne = false;
