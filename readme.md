@@ -10,7 +10,7 @@
  `Camera Video` - Get Stream from camera,\
  `Test video` - placeholder video,\
  `ReStream Remote Video` - get bottom video as stream source\
- `Choose Video Source` - select whole screen, browser tab or any window as stream source\
+ `Choose Video Source` - select whole screen, browser tab or any window as stream source
  2. Select user who will receive stream from list on the bottom\
  
  ### Built With
