@@ -2,7 +2,7 @@
  Video P2P Streaming with WebRTC
 
  ### Demo on Heroku:
- https://fpsgamedemo.herokuapp.com/ (site might take couple seconds to launch)
+ https://webrtcp2pstream.herokuapp.com/ (site might take couple seconds to launch)
  
   ### Overview
  
